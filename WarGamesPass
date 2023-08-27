@@ -1,0 +1,13 @@
+ssh banditN@bandit.labs.overthewire.org -p 2220
+
+N - exercise number
+
+
+find / [command] - przeszukiwanie wszystkich plikow w systemie
+[command] 2> /dev/null - wyswietlenie plikow z dostepem
+
+
+Level 5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+Level 6: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+Level 7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+Level 8: 
